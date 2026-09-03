@@ -1,4 +1,7 @@
-<h3 align="center">Hi, I'm @tejas-coder28 👋</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile%21;I%27m+Tejas+M" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tejas-coder28&color=brightgreen" alt="Profile Views" />
