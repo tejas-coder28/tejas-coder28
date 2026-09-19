@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile%21;I%27m+Tejas+M" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=540&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile!;I'm+Tejas+M" />
 </p>
 
 <p align="center">
@@ -8,19 +8,18 @@
 </p>
 
 <h3 align="center">
-  Python | Java | C/C++ | Artificial Intelligence | Machine Learning
+  Python · Java · C · JavaScript · AI & ML · Full-Stack Development
 </h3>
 
 ---
 
 ### 📖 About Me
 
-- 🎓 3rd year CSE (AI & ML) student at **MSRIT**, building things at the intersection of AI and real-world problems
-- 🧠 Deep-diving into **AI, Machine Learning, LLMs, and Neural Networks** — both the theory and shipping actual projects with them
-- 💰 Exploring **FinTech**, currently building the **N100 Financial Intelligence Platform** and a **Mutual Fund Capstone Project** to make sense of financial data
-- 🎙️ Built a **Speech-to-Text** tool and an **SOS Emergency App** — projects that solve problems people actually run into
-- 🚀 I like taking an idea from a rough concept to something people can actually use
-- 🤝 Always up for collaborating on interesting projects — hit me up if you're building something cool
+- 🎓 3rd-year **B.Tech CSE (AI & ML)** student at **M S Ramaiah Institute of Technology, Bengaluru** (2024 – 2028)
+- 🧠 Passionate about **Artificial Intelligence, Machine Learning, LLMs**, and building production-ready applications
+- 🚀 Building **AI-driven applications** — from nutrition tracking with Gemini API to voice biometric authentication with SpeechBrain
+- 🤝 Open to collaborating on interesting projects — feel free to reach out!
+- 🌏 Based in **Bengaluru, Karnataka, India**
 - 📫 Reach me at: [tejasmuralidhar2@gmail.com](mailto:tejasmuralidhar2@gmail.com)
 
 ---
@@ -28,7 +27,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tejas-m-a03848367" target="_blank">
+  <a href="https://www.linkedin.com/in/tejasmuralidhar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tejasmuralidhar2@gmail.com">
@@ -46,26 +45,35 @@
 **Languages:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Frameworks & Libraries:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
-**Databases & Backend:**
+**Databases & Cloud:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 **Editors & Tools:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -81,9 +89,15 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [Mutual Fund Capstone Project](https://github.com/tejas-coder28/Mutual-Fund-Capstone-Project) | Analysis and modeling project on mutual fund data | Jupyter Notebook, Python |
-| [N100 Financial Intelligence Platform](https://github.com/tejas-coder28/N100-FINANCIAL-INTELLIGENCE-PLATFORM) | Financial data platform for intelligence and insights | Python |
-| [SOS Emergency App](https://github.com/tejas-coder28/SOS-EmergencyApp) | Emergency alert application for quick help access | JavaScript |
-| [Speech Detection](https://github.com/tejas-coder28/Speech-Detection) | Speech-to-text conversion tool | HTML, JavaScript |
+| [NutriTrack AI](https://github.com/tejas-coder28/NutriTracker) | AI-powered nutrition & fitness tracker with meal-photo macro estimation | Expo, React Native, Firebase, Gemini API |
+| [SOS – Emergency Alert & Live Location Tracker](https://github.com/tejas-coder28/SOS-EmergencyApp) | Real-time emergency alert system with live GPS tracking and email notifications | Node.js, Express.js, Firebase (Firestore + FCM), Nodemailer |
+| [Voiceprint Identity System](https://github.com/tejas-coder28/Speech-Detection) | Voice biometric authentication using ECAPA-TDNN speaker embeddings | Python, PyTorch, SpeechBrain, Flask |
+| [Bluestock Mutual Fund & Portfolio Analytics](https://github.com/tejas-coder28/Mutual-Fund-Capstone-Project) | ETL pipeline + EDA + 4-page interactive Power BI dashboard on mutual fund data | Power BI, DAX, Python |
+
+---
+
+<p align="center">
+  <em>🔍 Actively seeking Software Development / AI-ML internship opportunities — let's build something impactful together!</em>
+</p>
