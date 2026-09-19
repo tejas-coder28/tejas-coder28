@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  Python · Java · C · JavaScript · AI & ML · Full-Stack Development
+  Python · Java · AI & ML · Full-Stack Development
 </h3>
 
 ---
