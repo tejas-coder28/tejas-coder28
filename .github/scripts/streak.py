@@ -84,17 +84,17 @@ def render(total, first, cur, cs, ce, longest, ls, le):
     <line x1="330" y1="30" x2="330" y2="165" stroke="#1b2a4a" stroke-width="1.5"/>
 
     <text x="82" y="85" font-size="30" font-weight="700" fill="#ffffff">{total}</text>
-    <text x="82" y="115" font-size="14" fill="#90e0ef">Total Contributions</text>
-    <text x="82" y="140" font-size="12" fill="#00b4d8">{fmt(first)} {first.year} - Present</text>
+    <text x="82" y="115" font-size="14" fill="#fca5a5">Total Contributions</text>
+    <text x="82" y="140" font-size="12" fill="#ef4444">{fmt(first)} {first.year} - Present</text>
 
-    <circle cx="247" cy="82" r="40" fill="none" stroke="#00b4d8" stroke-width="5"/>
+    <circle cx="247" cy="82" r="40" fill="none" stroke="#ef4444" stroke-width="5"/>
     <text x="247" y="92" font-size="28" font-weight="700" fill="#ffffff">{cur}</text>
     <text x="247" y="148" font-size="14" font-weight="700" fill="#ffffff">Current Streak</text>
-    <text x="247" y="168" font-size="12" fill="#00b4d8">{cur_range}</text>
+    <text x="247" y="168" font-size="12" fill="#ef4444">{cur_range}</text>
 
     <text x="412" y="85" font-size="30" font-weight="700" fill="#ffffff">{longest}</text>
-    <text x="412" y="115" font-size="14" fill="#90e0ef">Longest Streak</text>
-    <text x="412" y="140" font-size="12" fill="#00b4d8">{long_range}</text>
+    <text x="412" y="115" font-size="14" fill="#fca5a5">Longest Streak</text>
+    <text x="412" y="140" font-size="12" fill="#ef4444">{long_range}</text>
   </g>
 </svg>
 '''
