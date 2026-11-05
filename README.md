@@ -20,9 +20,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tejas-coder28&query=$.public_repos&label=PUBLIC%20REPOS&color=1E90FF&style=flat-square&labelColor=444" />
-<img src="https://img.shields.io/github/followers/tejas-coder28?label=FOLLOWERS&color=fca5a5&style=flat-square&labelColor=444" />
-<img src="https://komarev.com/ghpvc/?username=tejas-coder28&label=PROFILE%20VIEWS&color=ef4444&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/tejas-coder28/NutriTracker?label=LAST%20COMMIT&color=ef4444&style=flat-square&labelColor=444" />
+<img src="https://img.shields.io/github/followers/tejas-coder28?label=FOLLOWERS&color=c084fc&style=flat-square&labelColor=444" />
+<img src="https://komarev.com/ghpvc/?username=tejas-coder28&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/tejas-coder28/NutriTracker?label=LAST%20COMMIT&color=8b5cf6&style=flat-square&labelColor=444" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=🎓%20ABOUT%20ME&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=🎓%20ABOUT%20ME&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 - 🎓 3rd-year **B.Tech CSE (AI & ML)** student at **M S Ramaiah Institute of Technology, Bengaluru** (2024 – 2028)
 - 🧠 Passionate about **Artificial Intelligence, Machine Learning, LLMs**, and building production-ready applications
@@ -43,7 +43,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=⚡%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=⚡%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <br>
 
@@ -51,16 +51,16 @@
   <img src="https://img.shields.io/badge/~%20Languages-21262d?style=flat-square" /><br>
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" />
   <br>
-  <img src="https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=8b5cf6" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/~%20Frameworks%20%26%20Libraries-21262d?style=flat-square" /><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
   <br>
-  <img src="https://img.shields.io/badge/Chart.js-0d1b2a?style=flat-square&logo=chartdotjs&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/React_Native-0d1b2a?style=flat-square&logo=react&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/Expo-0d1b2a?style=flat-square&logo=expo&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/Chart.js-0d1b2a?style=flat-square&logo=chartdotjs&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/React_Native-0d1b2a?style=flat-square&logo=react&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/Expo-0d1b2a?style=flat-square&logo=expo&logoColor=8b5cf6" />
   <img src="https://img.shields.io/badge/Nodemailer-0d1b2a?style=flat-square" />
 </p>
 
@@ -68,16 +68,16 @@
   <img src="https://img.shields.io/badge/~%20Databases%20%26%20Cloud-21262d?style=flat-square" /><br>
   <img src="https://skillicons.dev/icons?i=firebase,sqlite" />
   <br>
-  <img src="https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/Firestore-0d1b2a?style=flat-square&logo=firebase&logoColor=ef4444" />
-  <img src="https://img.shields.io/badge/FCM-0d1b2a?style=flat-square&logo=firebase&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/Firestore-0d1b2a?style=flat-square&logo=firebase&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/FCM-0d1b2a?style=flat-square&logo=firebase&logoColor=8b5cf6" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/~%20AI%20%2F%20ML-21262d?style=flat-square" /><br>
   <img src="https://skillicons.dev/icons?i=pytorch,python" />
   <br>
-  <img src="https://img.shields.io/badge/Gemini_API-0d1b2a?style=flat-square&logo=googlegemini&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/Gemini_API-0d1b2a?style=flat-square&logo=googlegemini&logoColor=8b5cf6" />
   <img src="https://img.shields.io/badge/SpeechBrain-0d1b2a?style=flat-square" />
   <img src="https://img.shields.io/badge/ECAPA--TDNN-0d1b2a?style=flat-square" />
 </p>
@@ -86,13 +86,13 @@
   <img src="https://img.shields.io/badge/~%20Editors%20%26%20Tools-21262d?style=flat-square" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   <br>
-  <img src="https://img.shields.io/badge/Power_BI-0d1b2a?style=flat-square&logo=powerbi&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/Power_BI-0d1b2a?style=flat-square&logo=powerbi&logoColor=8b5cf6" />
   <img src="https://img.shields.io/badge/DAX-0d1b2a?style=flat-square" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -106,7 +106,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <div align="center">
   <img src="./streak.svg" alt="GitHub streak" width="495" />
@@ -116,7 +116,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tejas-coder28/tejas-coder28/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
@@ -126,7 +126,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ef4444,100:0a1428&height=48&section=header&text=🔗%20CONNECT%20WITH%20ME&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:8b5cf6,100:0a1428&height=48&section=header&text=🔗%20CONNECT%20WITH%20ME&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tejasmuralidhar" target="_blank">
