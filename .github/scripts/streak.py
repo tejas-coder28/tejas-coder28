@@ -9,7 +9,11 @@ def gql(query, variables):
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": query, "variables": variables}).encode(),
-        headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"},
+        headers={
+            "Authorization": f"bearer {TOKEN}",
+            "Content-Type": "application/json",
+            "User-Agent": "streak-card-generator",
+        },
     )
     with urllib.request.urlopen(req) as r:
         data = json.load(r)
@@ -39,7 +43,7 @@ def compute(days):
     today = date.today()
     ds = sorted(date.fromisoformat(k) for k in days if date.fromisoformat(k) <= today)
     total = sum(days[d.isoformat()] for d in ds)
-    first = next((d for d in ds if days[d.isoformat()] > 0), ds[0])
+    first = next((d for d in ds if days[d.isoformat()] > 0), ds[0] if ds else today)
 
     longest, ls, le, run, rs = 0, None, None, 0, None
     for d in ds:
