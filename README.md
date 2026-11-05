@@ -108,9 +108,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1428,50:ff2d78,100:0a1428&height=48&section=header&text=📊%20GITHUB%20ANALYTICS&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-coder28&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <br><br>
   <img src="https://ghchart.rshah.org/ff2d78/tejas-coder28" width="700" alt="GitHub contribution graph" />
+  <br><br>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/tejas-coder28&query=$.public_repos&label=REPOS&color=1E90FF&style=for-the-badge&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/github/followers/tejas-coder28?label=FOLLOWERS&color=FF69B4&style=for-the-badge&labelColor=0d1b2a" />
+  <img src="https://img.shields.io/github/stars/tejas-coder28/NutriTracker?label=NUTRITRACK%20STARS&color=ff2d78&style=for-the-badge&labelColor=0d1b2a" />
 </div>
 
 <br>
