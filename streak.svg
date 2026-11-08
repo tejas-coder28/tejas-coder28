@@ -4,7 +4,7 @@
     <line x1="165" y1="30" x2="165" y2="165" stroke="#1b2a4a" stroke-width="1.5"/>
     <line x1="330" y1="30" x2="330" y2="165" stroke="#1b2a4a" stroke-width="1.5"/>
 
-    <text x="82" y="85" font-size="30" font-weight="700" fill="#ffffff">610</text>
+    <text x="82" y="85" font-size="30" font-weight="700" fill="#ffffff">624</text>
     <text x="82" y="115" font-size="14" fill="#c084fc">Total Contributions</text>
     <text x="82" y="140" font-size="12" fill="#8b5cf6">Jan 24 2025 - Present</text>
 
