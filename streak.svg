@@ -4,14 +4,14 @@
     <line x1="165" y1="30" x2="165" y2="165" stroke="#1b2a4a" stroke-width="1.5"/>
     <line x1="330" y1="30" x2="330" y2="165" stroke="#1b2a4a" stroke-width="1.5"/>
 
-    <text x="82" y="85" font-size="30" font-weight="700" fill="#ffffff">628</text>
+    <text x="82" y="85" font-size="30" font-weight="700" fill="#ffffff">630</text>
     <text x="82" y="115" font-size="14" fill="#c084fc">Total Contributions</text>
     <text x="82" y="140" font-size="12" fill="#8b5cf6">Jan 24 2025 - Present</text>
 
     <circle cx="247" cy="82" r="40" fill="none" stroke="#8b5cf6" stroke-width="5"/>
-    <text x="247" y="92" font-size="28" font-weight="700" fill="#ffffff">2</text>
+    <text x="247" y="92" font-size="28" font-weight="700" fill="#ffffff">3</text>
     <text x="247" y="148" font-size="14" font-weight="700" fill="#ffffff">Current Streak</text>
-    <text x="247" y="168" font-size="12" fill="#8b5cf6">Nov 10 - Nov 11</text>
+    <text x="247" y="168" font-size="12" fill="#8b5cf6">Nov 10 - Nov 12</text>
 
     <text x="412" y="85" font-size="30" font-weight="700" fill="#ffffff">48</text>
     <text x="412" y="115" font-size="14" fill="#c084fc">Longest Streak</text>
